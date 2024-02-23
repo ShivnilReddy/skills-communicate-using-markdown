@@ -10,3 +10,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Eat mom's spaghetti
+- [x] Turn into an M&M
+- [x] Request the real Slim Shady to please stand up 
+- [ ] Finish the assignment
